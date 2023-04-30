@@ -43,8 +43,7 @@ As seguintes tecnologias foram utilizadas para desenvolver este app:
 ### Pré-requisitos
 
 - [Node](https://nodejs.org/en/download/);
-- [Yarn](https://yarnpkg.com/) (opcional);
-- [`http-server`](https://npmjs.com/package/http-server) ou quaisquer ferramentas de servidores HTTP estáticos.
+- [Yarn](https://yarnpkg.com/) (opcional).
 
 ### Passo a passo
 
